@@ -1,0 +1,15 @@
+body {
+    font-family: "Times New Roman", Arial, Georgia;
+}
+
+h1, h2, h3 {
+    color: red;
+    border-bottom: 1px solid blue;
+    background-color: lightblue;
+    padding: 16px;
+}
+
+.list li {
+    padding: 16px 0;
+    margin: 5px 0;
+}
